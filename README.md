@@ -2,6 +2,11 @@
 
 # rich-markdown-editor
 
+> This is a fork from slate-react for fix Safari IME bug, by follow:
+https://github.com/ianstormtaylor/slate/pull/2455
+https://github.com/ianstormtaylor/slate/pull/2415 And other PR on slate offical.
+
+
 A React and [Slate](https://github.com/ianstormtaylor/slate) based editor that powers the [Outline wiki](http://getoutline.com) and can also be used for displaying content in a read-only fashion.
 The editor is WYSIWYG and includes many formatting tools whilst retaining the ability to write markdown
 shortcuts inline and output Markdown.
